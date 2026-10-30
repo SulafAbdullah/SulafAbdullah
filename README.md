@@ -8,7 +8,7 @@ I am a Frontend Engineer actively becoming a Full-Stack developer. My passion li
 
 ### 🛠️ What I'm Up To
 * **Building SaaS:** I am currently developing my own SaaS product from scratch. You can check it out here: [https://mailmate-sa.vercel.app]
-* **Past Projects:** I built **Kaseb**, a project I'm proud of that I've built with great engineers and wonderful friends.
+* **Past Projects:** I built **Kaseb**, a project I'm proud of that I've built with great engineers and wonderful friends.[ https://kaseb-app.web.app/]
 * **Learning & Growing:** Expanding my backend skills, web development, and AI.
 
 
